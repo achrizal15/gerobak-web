@@ -175,7 +175,7 @@
 
     <!-- page title start -->
     <div class="banner-area bg-relative banner-area-2 bg-cover"
-        style="background-image: url('./{{ asset('dist/public') }}/assets/img/bg/8.png');">
+        style="background-image: url('{{ asset('dist/public') }}/assets/img/bg/8.png');">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 align-self-center">
@@ -387,7 +387,7 @@
 
     <!-- counter area start -->
     <div class="counter-area bg-relative bg-cover pd-top-110 pd-bottom-100"
-        style="background-image: url('./{{ asset('dist/public') }}/assets/img/bg/10.png');">
+        style="background-image: url('{{ asset('dist/public') }}/assets/img/bg/10.png');">
         <div class="container pd-bottom-90">
             <div class="row">
                 <div class="col-lg-3 col-md-6 wow animated fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.1s">
@@ -580,7 +580,7 @@
 
     <!-- testimonial-area start -->
     <div class="testimonial-area pd-top-120 pd-bottom-90"
-        style="background-image: url('./{{ asset('dist/public') }}/assets/img/bg/11.png');">
+        style="background-image: url('{{ asset('dist/public') }}/assets/img/bg/11.png');">
         <div class="container">
             <div class="section-title">
                 <h6 class="sub-title">TESTIMONIAL</h6>
