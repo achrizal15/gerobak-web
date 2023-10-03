@@ -1,0 +1,27 @@
+:root {
+    --main-color: #FF00EA;
+}
+.btn-base {
+    background: linear-gradient(56.64deg, #2600FC 0.04%, #FF00EA 99.88%);
+}
+.btn:after {
+    background: linear-gradient(56.64deg, #FF00EA 0.04%, #2600FC 99.88%);
+}
+.btn-border-base {
+    color: var(--main-color);
+}
+.section-title .sub-title {
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    color: var(--main-color);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.single-team-inner .team-social-inner {
+	background: var(--main-color);
+}
+.single-team-inner .team-social-inner a {
+	color: #fff;
+}

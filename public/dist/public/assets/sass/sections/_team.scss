@@ -1,0 +1,244 @@
+.single-team-inner {
+	border: 1px solid #E3E3E3;
+	box-shadow:  0px 4.4px 20px rgba(19, 16, 34, 0.05);
+	border-radius: 22px;
+	position: relative;
+	margin-bottom: 30px;
+	.thumb {
+		position: relative;
+		border-radius: 22px;
+		overflow: hidden;
+        img {
+            transform: scale(1.05);
+            transition: 0.9s;
+        }
+		.team-social-inner {
+			opacity: 0;
+			transition: 0.4s;
+			position: absolute;
+			left: 50%;
+			transform: translateX(-50%);
+			bottom: 10px;
+		}
+	}
+	.team-social-inner {
+		height: 50px;
+		padding: 11px 25px 8px;
+		background: #fff;
+		border-radius: 50px;
+		transition: 0.4s;
+		display: inline-block;
+		li {
+			display: inline-block;
+			margin-right: 10px;
+			padding-right: 10px;
+			font-size: 15px;
+			border-right: 1px solid #E3E3E3;
+			color: #737588;
+			&:last-child {
+				margin-right: 0;
+				padding-right: 0;
+				border-right: 0;
+			}
+		}
+	}
+	.details {
+		padding: 20px;
+		p {
+			margin-bottom: 0;
+		}
+	}
+	&:hover {
+		.thumb {
+            img {
+                transform: scale(1.1);
+            }
+			.team-social-inner {
+				bottom: 20px;
+				visibility: visible;
+				opacity: 1;
+			}
+		}
+	}
+
+	&.style-2 {
+		border-radius: 10px;
+		border: 0;
+		.thumb {
+			border-radius: 10px;
+		}
+		.details {
+			position: absolute;
+			right: 0;
+			bottom: 0;
+			width: 100%;
+			padding: 0 20px 0;
+			.details-inner {
+				border-radius: 10px 10px 0 0 ;
+				background: rgba(255,255,255,0.8);
+				padding: 20px;
+			}
+			h5 {
+				color: var(--main-color);
+				&:hover a {
+					color: var(--heading-color);
+				}
+			}
+			p {
+				color: var(--heading-color);
+			}
+			.team-social-inner {
+				border-radius: 5px;
+				height: 40px;
+				padding: 6px 15px;
+			}
+		}
+	}
+
+	&.style-3 {
+		border: 0;
+		.thumb {
+			background: #fff;
+			padding: 30px;
+			.team-social-inner {
+				height: auto;
+				padding: 0;
+				background: transparent;
+				border-radius: 0;
+				transition: 0.4s;
+				display: inline-block;
+				li {
+					display: inline-block;
+					margin-right: 0;
+					padding-right: 0;
+					font-size: 15px;
+					border-right: 0;
+					color: #fff;
+					a {
+						height: 35px;
+						width: 35px;
+						text-align: center;
+						line-height: 35px;
+						border-radius: 4px 4px 0 0;
+						display: inline-block;
+						background: var(--main-color);
+						margin: 0 2px;
+						color: #fff !important;
+					}
+				}
+			}
+		}
+		.details {
+			background: #fff;
+			margin: 30px;
+			margin-top: -60px;
+			position: relative;
+			z-index: 2;
+			border-radius: 10px;
+			padding: 30px;
+			box-shadow: $box-shadow;
+		}
+		&:hover {
+			.thumb {
+				.team-social-inner {
+					bottom: 43px;
+				}
+			}
+		}
+	}
+
+	&.style-4 {
+		border: 0;
+		border-radius: 0 70px 0 70px;
+		overflow: hidden;
+		.thumb {
+			background: #fff;
+			padding: 0;
+			.team-social-inner {
+				height: auto;
+				padding: 0;
+				background: transparent;
+				border-radius: 0;
+				transition: 0.4s;
+				display: inline-block;
+				position: absolute;
+			    left: 20px;
+			    top: 25px;
+			    width: 50px;
+				li {
+					display: inline-block;
+					margin-right: 0;
+					padding-right: 0;
+					font-size: 15px;
+					border-right: 0;
+					color: #fff;
+					a {
+						height: 35px;
+						width: 35px;
+						text-align: center;
+						line-height: 35px;
+						border-radius: 4px;
+						display: inline-block;
+						background: var(--main-color);
+						margin: 2px;
+						color: #fff !important;
+					}
+				}
+			}
+		}
+		.details {
+			background: #fff;
+			position: relative;
+			z-index: 2;
+			border-radius: 0;
+			padding: 30px;
+			background: var(--main-color);
+			visibility: hidden;
+			opacity: 0;
+			transition: 0.4s;
+			position: absolute;
+			bottom: -20px;
+			width: 100%;
+		}
+		&:hover {
+			.thumb {
+				.team-social-inner {
+					left: 43px;
+				}
+			}
+			.details {
+				visibility: visible;
+				opacity: 1;
+				bottom: 0;
+			}
+		}
+	}
+}
+
+.team-details-page {
+	.thumb {
+		background: #f5f3ef;
+		padding: 40px 0 40px 0;
+		margin-right: 40px;
+		img {
+			width: 100%;
+			margin-right: -80px;
+		}
+	}
+	.social-media {
+		li {
+			a {
+				height: 46px;
+				width: 46px;
+				line-height: 46px;
+				border-radius: 0;
+				background: var(--heading-color);
+				font-size: 16px;
+				color: #fff;
+				&:hover {
+					background: var(--main-color);
+				}
+			}
+		}
+	}
+}

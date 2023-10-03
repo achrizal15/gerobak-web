@@ -1,0 +1,21 @@
+:root {
+    --main-color: #50AF9B;
+}
+.btn-border-base {
+    color: var(--main-color);
+}
+.section-title .sub-title {
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    color: var(--main-color);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.single-team-inner .team-social-inner {
+	background: var(--main-color);
+}
+.single-team-inner .team-social-inner a {
+	color: #fff;
+}

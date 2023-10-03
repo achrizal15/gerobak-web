@@ -1,0 +1,39 @@
+:root {
+    --main-color: #6D18EF;
+}
+.bg-black-ico {
+    background: #050231;
+}
+.bg-black-2-ico {
+    background: #160443;
+}
+.bg-white-4 {
+    background: rgba(255,255,255, 0.04);
+}
+.btn-base {
+    background: linear-gradient(56.64deg, #2600FC 0.04%, #6D18EF 99.88%);
+}
+.bg-base-9 {
+    background: linear-gradient(56.64deg, #2600FC 0.04%, #FF00EA 99.88%);
+}
+.btn:after {
+    background: linear-gradient(56.64deg, #6D18EF 0.04%, #2600FC 99.88%);
+}
+.btn-border-base {
+    color: var(--main-color);
+}
+.section-title .sub-title {
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    color: var(--main-color);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.single-team-inner .team-social-inner {
+	background: var(--main-color);
+}
+.single-team-inner .team-social-inner a {
+	color: #fff;
+}
