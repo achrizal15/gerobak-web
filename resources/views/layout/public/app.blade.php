@@ -181,19 +181,19 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="banner-inner pe-xl-5">
                         <h6 class="subtitle wow animated fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                            Designing for the future</h6>
+                            Selamat datang di Gerobak Web</h6>
                         <h2 class="title wow animated fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                            Revolutionize Your <span>Workflow</span> With SaaS</h2>
+                            Solusi <span>terbaik</span> dan <span>lengkap</span> untuk meningkatkan produktivitas bisnis anda.</h2>
                         <p class="content pe-xl-5 wow animated fadeInLeft" data-wow-duration="1.5s"
                             data-wow-delay="0.5s">And In Order To Make A Business, Brand Advertising And Marketing
                             Plays An Important Role. Similarly, In Making Cultivation Business Are Necessary.</p>
                         <a class="btn btn-border-base wow animated fadeInLeft" data-wow-duration="1.5s"
-                            data-wow-delay="0.6s" href="about.html">Discover More <i class="fa fa-plus"></i></a>
+                            data-wow-delay="0.6s" href="{{ asset('dist/public') }}/about.html">Lihat Lebih Banyak<i class="fa fa-plus"></i></a>
                         <div class="d-inline-block align-self-center wow animated fadeInLeft" data-wow-duration="1.5s"
                             data-wow-delay="0.7s">
                             <a class="video-play-btn-hover" href="https://www.youtube.com/embed/Wimkqo8gDZ0"><img
                                     src="{{ asset('dist/public') }}/assets/img/video.svg" alt="img">
-                                <h6 class="d-inline-block">how we work</h6>
+                                <h6 class="d-inline-block">Bagaimana cara kerja kami?</h6>
                             </a>
                         </div>
                     </div>
@@ -233,10 +233,9 @@
                 </div>
                 <div class="col-lg-6 wow animated fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.3s">
                     <div class="section-title mb-0">
-                        <h6 class="sub-title">ABOUT US</h6>
-                        <h2 class="title">Empowering businesses with SaaS technology</h2>
-                        <p class="content mb-4">You can access SaaS applications through a web browser or mobile app,
-                            as long as you have an internet connection.</p>
+                        <h6 class="sub-title">TENTANG KAMI</h6>
+                        <h2 class="title">Keamanan Terbaik</h2>
+                        <p class="content mb-4">Kami memprioritaskan keamanan data anda. <strong>Sistem enkripsi tingkat lanjut </strong>memastikan data bisnis Anda tetap aman dari ancaman apapun.</p>
                         <div class="row">
                             <div class="col-md-6">
                                 <ul class="single-list-inner style-check style-heading style-check mb-3">
@@ -254,7 +253,7 @@
                         <p class="content">SaaS providers typically invest heavily in security measures to protect
                             customer data, such as encryption and multi-factor authentication. However, it is important
                             to research and choose a reputable provider and also to ensure that</p>
-                        <a class="btn btn-border-base" href="about.html">Discover More <i class="fa fa-plus"></i></a>
+                        <a class="btn btn-border-base" href="{{ asset('dist/public') }}/about.html">Discover More <i class="fa fa-plus"></i></a>
                     </div>
                 </div>
             </div>
@@ -583,20 +582,19 @@
         style="background-image: url('{{ asset('dist/public') }}/assets/img/bg/11.png');">
         <div class="container">
             <div class="section-title">
-                <h6 class="sub-title">TESTIMONIAL</h6>
+                <h6 class="sub-title">APA KATA PELANGGAN KAMI?</h6>
                 <h2 class="title">Advanced Engine Services</h2>
             </div>
             <div
                 class="testimonial-slider-1 owl-carousel slider-control-round slider-control-dots slider-control-right-top">
                 <div class="item">
                     <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Devon Lane</h5>
-                        <p class="designation mb-3">Marketing Coordinator</p>
+                        <h5>Ayu Wulan Mediana</h5>
+                        <p class="designation mb-3">COO Renggani Corp.</p>
                         <div class="icon mb-2">
                             <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                         </div>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                            classical Latin literature from 45 BC</p>
+                        <p>Sangat senang dengan produk mereka. Benar-benar mengubah cara kami menjalankan bisnis.</p>
                         <div class="ratting-inner mt-4">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -611,13 +609,12 @@
                 </div>
                 <div class="item">
                     <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Devon Lane</h5>
-                        <p class="designation mb-3">Marketing Coordinator</p>
+                        <h5>Muhammad Rosi</h5>
+                        <p class="designation mb-3">Chili Plantation Owner</p>
                         <div class="icon mb-2">
                             <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                         </div>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                            classical Latin literature from 45 BC</p>
+                        <p>Pelayanan mereka luar biasa. Mereka selalu siap membantu kapan pun kita butuhkan.</p>
                         <div class="ratting-inner mt-4">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -632,13 +629,12 @@
                 </div>
                 <div class="item">
                     <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Devon Lane</h5>
-                        <p class="designation mb-3">Marketing Coordinator</p>
+                        <h5>Lilik Hidayati</h5>
+                        <p class="designation mb-3">Direktur La Gusto Fashion</p>
                         <div class="icon mb-2">
                             <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                         </div>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                            classical Latin literature from 45 BC</p>
+                        <p>Saya sangat puas dengan hasilnya. Produk mereka membantu saya menghemat waktu dan uang, sementara juga meningkatkan efisiensi bisnis saya.</p>
                         <div class="ratting-inner mt-4">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -653,13 +649,12 @@
                 </div>
                 <div class="item">
                     <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Devon Lane</h5>
-                        <p class="designation mb-3">Marketing Coordinator</p>
+                        <h5>Bambang Susilo</h5>
+                        <p class="designation mb-3">Wang's Cocopeat</p>
                         <div class="icon mb-2">
                             <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                         </div>
-                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of
-                            classical Latin literature from 45 BC</p>
+                        <p>Kami baru saja menggunakan layanan mereka dan hasilnya luar biasa. Kami melihat pertumbuhan signifikan dalam bisnis kami berkat produk mereka.</p>
                         <div class="ratting-inner mt-4">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
