@@ -25,14 +25,14 @@
 <body>
 
     <!-- preloader area start -->
-    <div class="preloader" id="preloader">
+    {{-- <div class="preloader" id="preloader">
         <div class="preloader-inner">
             <div class="spinner">
                 <div class="dot1"></div>
                 <div class="dot2"></div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- preloader area end -->
 
     <!-- search popup start-->
@@ -183,11 +183,14 @@
                         <h6 class="subtitle wow animated fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.3s">
                             Selamat datang di Gerobak Web</h6>
                         <h2 class="title wow animated fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                            Solusi <span>terbaik</span> dan <span>lengkap</span> untuk meningkatkan produktivitas bisnis anda.</h2>
+                            Solusi <span>terbaik</span> dan <span>lengkap</span> untuk meningkatkan produktivitas bisnis
+                            anda.</h2>
                         <p class="content pe-xl-5 wow animated fadeInLeft" data-wow-duration="1.5s"
-                            data-wow-delay="0.5s">Untuk membangun bisnis yang sukses, seseorang harus memprioritaskan promosi merk dan upaya pemasaran.</p>
+                            data-wow-delay="0.5s">Untuk membangun bisnis yang sukses, seseorang harus memprioritaskan
+                            promosi merk dan upaya pemasaran.</p>
                         <a class="btn btn-border-base wow animated fadeInLeft" data-wow-duration="1.5s"
-                            data-wow-delay="0.6s" href="{{ asset('dist/public') }}/about.html">Lihat Lebih Banyak <i class="fa fa-plus"></i></a>
+                            data-wow-delay="0.6s" href="{{ asset('dist/public') }}/about.html">Lihat Lebih Banyak <i
+                                class="fa fa-plus"></i></a>
                         <div class="d-inline-block align-self-center wow animated fadeInLeft" data-wow-duration="1.5s"
                             data-wow-delay="0.7s">
                             <a class="video-play-btn-hover" href="https://www.youtube.com/embed/Wimkqo8gDZ0"><img
@@ -234,7 +237,8 @@
                     <div class="section-title mb-0">
                         <h6 class="sub-title">TENTANG KAMI</h6>
                         <h2 class="title">Keamanan Terbaik</h2>
-                        <p class="content mb-4">Kami memprioritaskan keamanan data anda. <strong>Sistem enkripsi tingkat lanjut </strong>memastikan data bisnis Anda tetap aman dari ancaman apapun.</p>
+                        <p class="content mb-4">Kami memprioritaskan keamanan data anda. <strong>Sistem enkripsi
+                                tingkat lanjut </strong>memastikan data bisnis Anda tetap aman dari ancaman apapun.</p>
                         <div class="row">
                             <div class="col-md-6">
                                 <ul class="single-list-inner style-check style-heading style-check mb-3">
@@ -249,8 +253,13 @@
                                 </ul>
                             </div>
                         </div>
-                        <p class="content">Di Gerobak Web, keamanan adalah prioritas utama kami. Kami memahami betapa pentingnya melindungi data Anda, informasi pelanggan, dan reputasi bisnis Anda dari ancaman online yang berkembang pesat. Itulah mengapa kami telah mengambil langkah-langkah besar untuk memastikan bahwa situs web Anda tetap aman dari potensi serangan dan risiko keamanan.</p>
-                        <a class="btn btn-border-base" href="{{ asset('dist/public') }}/about.html">Lihat Lebih Banyak <i class="fa fa-plus"></i></a>
+                        <p class="content">Di Gerobak Web, keamanan adalah prioritas utama kami. Kami memahami betapa
+                            pentingnya melindungi data Anda, informasi pelanggan, dan reputasi bisnis Anda dari ancaman
+                            online yang berkembang pesat. Itulah mengapa kami telah mengambil langkah-langkah besar
+                            untuk memastikan bahwa situs web Anda tetap aman dari potensi serangan dan risiko keamanan.
+                        </p>
+                        <a class="btn btn-border-base" href="{{ asset('dist/public') }}/about.html">Lihat Lebih
+                            Banyak <i class="fa fa-plus"></i></a>
                     </div>
                 </div>
             </div>
@@ -322,7 +331,8 @@
         <div class="container">
             <div class="section-title text-center">
                 <h6 class="sub-title">PAKET HARGA</h6>
-                <h2 class="title"><span>Gerobak Web </span> menyediakan berbagai pilihan paket harga yang dapat disesuaikan dengan kebutuhan bisnis anda.</h2>
+                <h2 class="title"><span>Gerobak Web </span> menyediakan berbagai pilihan paket harga yang dapat
+                    disesuaikan dengan kebutuhan bisnis anda.</h2>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
@@ -631,7 +641,8 @@
                         <div class="icon mb-2">
                             <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                         </div>
-                        <p>Saya sangat puas dengan hasilnya. Produk mereka membantu saya menghemat waktu dan uang, sementara juga meningkatkan efisiensi bisnis saya.</p>
+                        <p>Saya sangat puas dengan hasilnya. Produk mereka membantu saya menghemat waktu dan uang,
+                            sementara juga meningkatkan efisiensi bisnis saya.</p>
                         <div class="ratting-inner mt-4">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -651,7 +662,8 @@
                         <div class="icon mb-2">
                             <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                         </div>
-                        <p>Kami baru saja menggunakan layanan mereka dan hasilnya luar biasa. Kami melihat pertumbuhan signifikan dalam bisnis kami berkat produk mereka.</p>
+                        <p>Kami baru saja menggunakan layanan mereka dan hasilnya luar biasa. Kami melihat pertumbuhan
+                            signifikan dalam bisnis kami berkat produk mereka.</p>
                         <div class="ratting-inner mt-4">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
