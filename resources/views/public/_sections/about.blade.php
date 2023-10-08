@@ -1,5 +1,5 @@
 <!-- about area start -->
-<div class="about-area pd-top-120 pd-bottom-120">
+<div class="about-area pd-top-120 pd-bottom-120" id="about-area">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 mb-4 mb-lg-0 wow animated fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.3s">

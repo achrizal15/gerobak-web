@@ -19,31 +19,11 @@
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/owl.min.css">
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/responsive.css">
-
+    @yield('styles')
 </head>
 
 <body>
 
-    <!-- preloader area start -->
-    {{-- <div class="preloader" id="preloader">
-        <div class="preloader-inner">
-            <div class="spinner">
-                <div class="dot1"></div>
-                <div class="dot2"></div>
-            </div>
-        </div>
-    </div> --}}
-    <!-- preloader area end -->
-
-    <!-- search popup start-->
-    <div class="td-search-popup" id="td-search-popup">
-        <form action="index.html" class="search-form">
-            <div class="form-group">
-                <input type="text" class="form-control" placeholder="Search.....">
-            </div>
-            <button type="submit" class="submit-btn"><i class="fa fa-search"></i></button>
-        </form>
-    </div>
     <!-- search popup end-->
     <div class="body-overlay" id="body-overlay"></div>
 
@@ -74,6 +54,7 @@
     <script src="{{ asset('dist/public') }}/assets/js/wow.min.js"></script>
     <script src="{{ asset('dist/public') }}/assets/js/main.js"></script>
     @vite('resources/js/app.js')
+    @yield('js')
 </body>
 
 </html>
