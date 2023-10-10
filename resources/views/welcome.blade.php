@@ -10,9 +10,9 @@
 
     @include('public._sections.counter')
 
+    @include('public._sections.testimoni')
+
     @include('public._sections.contact')
 
     @include('public._sections.work_process_area')
-
-    @include('public._sections.testimoni')
 @endsection

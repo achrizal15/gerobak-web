@@ -8,22 +8,18 @@
             </button>
         </div>
         <div class="logo">
-            <a href="index.html"><img src="{{ Vite::asset('resources/images/logo/logo.png') }}" alt="img"></a>
-        </div>
-        <div class="nav-right-part nav-right-part-mobile">
-            <a class="search-bar-btn" href="#">
-                <i class="fa fa-search"></i>
-            </a>
+            <a href="index.html"><img src="{{ Vite::asset('resources/images/logo/logo.png') }}" width="200px"
+                    height="50px" alt="img"></a>
         </div>
         <div class="collapse navbar-collapse" id="itech_main_menu">
             <ul class="navbar-nav menu-open text-lg-center ps-lg-5">
                 <li><a href="/#home">@lang('public.navbar.home')</a></li>
-                <li><a href="/#about-area">@lang('public.navbar.about_us')</a></li>
-                <li><a href="/#about-area">@lang('public.navbar.our_service')</a></li>
+                <li><a href="/#what-you-get-area">@lang('public.navbar.what_you_get')</a></li>
+                <li><a href="/#business-lines-area">@lang('public.navbar.business_lines')</a></li>
+                <li><a href="/#price-list-area">@lang('public.navbar.price_list')</a></li>
+                <li><a href="/#our-friend-area">@lang('public.navbar.our_friend')</a></li>
+                <li><a href="/#how-we-work-area">@lang('public.navbar.how_we_work')</a></li>
             </ul>
-        </div>
-        <div class="nav-right-part nav-right-part-desktop align-self-center">
-            <a class="btn btn-border-base" href="about.html">Lihat Lebih Banyak <i class="fa fa-plus"></i></a>
         </div>
     </div>
 </nav>

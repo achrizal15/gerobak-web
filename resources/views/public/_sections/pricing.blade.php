@@ -1,5 +1,5 @@
     <!-- pricing-area start -->
-    <div class="pricing-area pd-top-120 pd-bottom-90">
+    <div class="pricing-area pd-top-120 pd-bottom-90" id="price-list-area">
         <div class="container">
             <div class="section-title text-center">
                 <h6 class="sub-title">PAKET HARGA</h6>
