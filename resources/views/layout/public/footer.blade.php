@@ -2,19 +2,8 @@
 <footer class="footer-area footer-area-2 bg-gray mt-0 pd-top-120">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-md-6">
-                <div class="widget widget_about">
-                    <div class="thumb">
-                        <img src="{{ asset('dist/public') }}/assets/img/logo.png" alt="img">
-                    </div>
-                    <div class="details">
-                        <p>Melbourne is simply is dumiomy is text Lorem Ipsum is simply</p>
-                        <div class="subscribe mt-4">
-                            <input type="text" placeholder="E-mail">
-                            <button><i class="fas fa-chevron-right"></i></button>
-                        </div>
-                    </div>
-                </div>
+            <div class="col-lg-3 mb-3 mb-md-0 col-md-6">
+                <img src="{{ Vite::asset('resources/images/logo/logo.png') }}" alt="img" width="200px" height="84px">
             </div>
             <div class="col-lg-3 col-md-6 ps-xl-5">
                 <div class="widget widget_nav_menu">

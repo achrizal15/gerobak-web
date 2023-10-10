@@ -8,7 +8,7 @@
             </button>
         </div>
         <div class="logo">
-            <a href="index.html"><img src="{{ asset('dist/public') }}/assets/img/logo.png" alt="img"></a>
+            <a href="index.html"><img src="{{ Vite::asset('resources/images/logo/logo.png') }}" alt="img"></a>
         </div>
         <div class="nav-right-part nav-right-part-mobile">
             <a class="search-bar-btn" href="#">

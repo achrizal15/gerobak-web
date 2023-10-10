@@ -12,13 +12,13 @@
                             @lang('public.banner.detail')</p>
                         <a class="btn btn-border-base wow animated fadeInLeft" data-wow-duration="1.5s"
                             data-wow-delay="0.6s" href="{{ asset('dist/public') }}/about.html">@lang('public.banner.contact_us')</a>
-                        <div class="d-inline-block align-self-center wow animated fadeInLeft" data-wow-duration="1.5s"
+                        {{-- <div class="d-inline-block align-self-center wow animated fadeInLeft" data-wow-duration="1.5s"
                             data-wow-delay="0.7s">
                             <a class="video-play-btn-hover" href="https://www.youtube.com/embed/Wimkqo8gDZ0"><img
                                     src="{{ asset('dist/public') }}/assets/img/video.svg" alt="img">
                                 <h6 class="d-inline-block">@lang('public.banner.how_to_order')</h6>
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-9 wow animated fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.3s">
