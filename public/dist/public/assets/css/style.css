@@ -3145,8 +3145,14 @@ ul {
 }
 .banner-thumb-2 .main-img-wrap .banner-animate-img-3 {
     left: -200px;
-    bottom: 100px;
+    bottom: -100px;
     z-index: 1;
+}
+@media (max-width: 375px) {
+    .banner-thumb-2 .main-img-wrap .banner-animate-img-3 {
+        left: -166px;
+        bottom: -30px;
+    }
 }
 .banner-thumb-2 .banner-animate-img-4 {
     right: -20px;
