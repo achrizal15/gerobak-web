@@ -6,26 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Gerobak Web</title>
+    <title>GerobakWeb</title>
     <meta name="description"
-        content="Gerobak Web - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
-    <meta name="keywords" content="Gerobak Web, website, bisnis, solusi, pembuatan website">
-    <meta name="author" content="Gerobak Web">
+        content="GerobakWeb - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
+    <meta name="keywords" content="GerobakWeb, website, bisnis, solusi, umkm,exmpor,impor,pembuatan website">
+    <meta name="author" content="GerobakWeb">
 
     <!-- OG Meta Tags -->
-    <meta property="og:title" content="Gerobak Web - Solusi Website untuk Bisnis Anda">
+    <meta property="og:title" content="GerobakWeb - Solusi Website untuk Bisnis Anda">
     <meta property="og:description"
-        content="Gerobak Web - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
+        content="GerobakWeb - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
     <meta property="og:image" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
     <meta property="og:url" content="https://gerobakweb.com/">
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Gerobak Web">
+    <meta property="og:site_name" content="GerobakWeb">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
-    <meta name="twitter:title" content="Gerobak Web - Solusi Website untuk Bisnis Anda">
+    <meta name="twitter:title" content="GerobakWeb - Solusi Website untuk Bisnis Anda">
     <meta name="twitter:description"
-        content="Gerobak Web - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
+        content="GerobakWeb - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
     <meta name="twitter:image" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
     <meta name="twitter:url" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
     <meta name="twitter:site" content="@gerobakweb">
