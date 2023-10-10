@@ -17,6 +17,17 @@ return array(
          ),
          'what_you_get' => array(
                   'subtitle' => 'Kamu Dapat Apa?',
-                  'title' => 'Tingkatkan Keuntunganmu: Website adalah Kunci!'
+                  'title' => 'Tingkatkan Keuntunganmu: Website adalah Kunci!',
+                  'detail' => 'Kami punya tekad kuat jadi mitramu yang andalan buat meraih sukses di dunia
+                  digital. Kita ngerti banget pentingnya punya keberadaan online buat bikin bisnismu makin maju.
+                  Kami memahami betapa pentingnya bagi UMKM Indonesia untuk go digital dan meraih ekspansi
+                  internasional. Kita punya komitmen buat kasih solusi kreatif yang bisa membantu kamu, pemilik
+                  UMKM, capai semua cita-citamu dalam bisnis digital. Kamu bakal dapetin:',
+                  'feature' => array('Optimasi SEO Keren', 'Dapet Akses ke Template Keren', 'Data Kamu Aman', 'Bisnis Berkembang Pesat', 'Dapet Akses ke Konten Keren', 'Ekspansi Internasional')
+         ),
+         'business_lines' => array(
+                  'subtitle' => 'Lini Bisnis',
+                  'title' => 'Template Website dan Sektor yang Kami Dukung',
+                  'detail' => 'Kami merangkul keragaman seluruh lini bisnis di Indonesia, termasuk template untuk website kamu dan berbagai sektor yang kami layani. '
          )
 );

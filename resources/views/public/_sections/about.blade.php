@@ -11,29 +11,25 @@
                 <div class="section-title mb-0">
                     <h6 class="sub-title">@lang('public.what_you_get.subtitle')</h6>
                     <h2 class="title">@lang('public.what_you_get.title')</h2>
-                    <p class="content mb-4">Kami punya tekad kuat jadi mitramu yang andalan buat meraih sukses di dunia
-                        digital. Kita ngerti banget pentingnya punya keberadaan online buat bikin bisnismu makin maju.
-                        Kami memahami betapa pentingnya bagi UMKM Indonesia untuk go digital dan meraih ekspansi
-                        internasional. Kita punya komitmen buat kasih solusi kreatif yang bisa membantu kamu, pemilik
-                        UMKM, capai semua cita-citamu dalam bisnis digital. Kamu bakal dapetin:
-                    </p>
+                    <p class="content mb-4">@lang('public.what_you_get.detail')</p>
                     <div class="row">
                         <div class="col-md-6">
-                            <ul class="single-list-inner style-check style-heading style-check mb-3">
-                                <li><i class="fas fa-check-circle"></i> Optimasi SEO Keren</li>
-                                <li><i class="fas fa-check-circle"></i> Dapet Akses ke Template Keren</li>
-                                <li><i class="fas fa-check-circle"></i> Data Kamu Aman</li>
+                            <ul class="single-list-inner style-check style-heading style-check mb-2">
+                                @for ($i = 0; $i < 3; $i++)
+                                    <li><i class="fas fa-check-circle"></i>@lang('public.what_you_get.feature.' . $i)</li>
+                                @endfor
                             </ul>
                         </div>
 
                         <div class="col-md-6">
-                            <ul class="single-list-inner style-check style-heading style-check mb-3">
-                                <li><i class="fas fa-check-circle"></i> Bisnis Berkembang Pesat</li>
-                                <li><i class="fas fa-check-circle"></i> Dapet Akses ke Konten Keren</li>
-                                <li><i class="fas fa-check-circle"></i> Ekspansi Internasional</li>
+                            <ul class="single-list-inner style-check style-heading style-check mb-2">
+                                @for ($i = 3; $i < 6; $i++)
+                                    <li><i class="fas fa-check-circle"></i>@lang('public.what_you_get.feature.' . $i)</li>
+                                @endfor
                             </ul>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
