@@ -10,22 +10,32 @@
                   </div>
               </div>
           </div>
-          <div class="row">
-              <div class="col-lg-4 col-md-6">
-                  <div class="single-service-inner-2 text-center">
-                      <div class="thumb">
-                          <img height="300px" width="100%" style="object-fit: contain"
-                              src="{{ Vite::asset('resources/images/public/darksteak/thumbnail.png') }}" alt="img">
-                      </div>
-                      <div class="details">
-                          <div class="icon mb-3">
-                              <img src="{{ Vite::asset('resources/images/public/darksteak/logo.png') }}" alt="img">
+          <div class="row ">
+              @foreach ($business_lines as $item)
+                  <div class="col-lg-4 col-md-6">
+                      <div class="single-service-inner-2 text-center">
+                          <div class="thumb">
+                              <img height="300px" width="100%" style="object-fit: contain"
+                                  src="{{ $item['thumbnail'] }}" alt="img">
                           </div>
-                          <h5><a href="service-details.html">Dark Steak</a></h5>
-                          <p>Template Eksklusif untuk Restoran Steak yang Menciptakan Pengalaman Kuliner Luar Biasa</p>
+                          <div class="details">
+                              <div class="icon mb-3">
+                                  <img src="{{ $item['icon'] }}" alt="img">
+                              </div>
+                              <h5><a href="service-details.html">{{ $item['title'] }}</a></h5>
+                              <p>{{ $item['detail'] }} </p>
+                          </div>
                       </div>
                   </div>
-              </div>
+              @endforeach
+          </div>
+          <div class="text-center">
+              <button class="btn btn-primary">
+                  <span>
+                      Lebih Banyak Lagi
+                  </span>
+                  <i class="fas fa-arrow-right"></i>
+              </button>
           </div>
       </div>
   </div>

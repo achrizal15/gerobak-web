@@ -29,5 +29,9 @@ return array(
                   'subtitle' => 'Lini Bisnis',
                   'title' => 'Template Website dan Sektor yang Kami Dukung',
                   'detail' => 'Kami merangkul keragaman seluruh lini bisnis di Indonesia, termasuk template untuk website kamu dan berbagai sektor yang kami layani. '
+         ),
+         'price_list' => array(
+                  'subtitle' => 'Daftar Harga',
+                  'title' => 'Daftar Harga Website Terjangkau: Mulai Dari <span>750 Ribu</span> Saja!'
          )
 );
