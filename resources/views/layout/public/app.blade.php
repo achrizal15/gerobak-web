@@ -13,7 +13,7 @@
     <meta name="author" content="GerobakWeb">
 
     <!-- OG Meta Tags -->
-    <meta property="og:title" content="GerobakWeb - Solusi Website untuk Bisnis Anda">
+    <meta property="og:title" content="GerobakWeb - Solusi Website untuk UMKM Indonesia">
     <meta property="og:description"
         content="GerobakWeb - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
     <meta property="og:image" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
