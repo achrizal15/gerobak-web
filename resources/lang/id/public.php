@@ -36,6 +36,6 @@ return array(
          ),
          'our_friend' => array(
                   'subtitle' => 'Sahabat Kami',
-                  'title' => 'Testimoni Keberhasilan Bisnis dengan <span>Gerobak Web</span>'
+                  'title' => 'Testimoni Keberhasilan Bisnis dengan <span>GerobakWeb</span>'
          )
 );

@@ -16,7 +16,7 @@
                             <div class="icon mb-2">
                                 <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                             </div>
-                            <p>Dengan Gerobak Web, Amirika, penjual mie pedas, mencapai sukses luar biasa. Situs web
+                            <p>Dengan GerobakWeb, Amirika, penjual mie pedas, mencapai sukses luar biasa. Situs web
                                 menarik
                                 kami meningkatkan penjualan dan jangkauan pelanggan.</p>
                             <div class="ratting-inner mt-4">
@@ -40,7 +40,7 @@
                             <div class="icon mb-2">
                                 <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                             </div>
-                            <p>Dukungan Gerobak Web sangat berharga bagi UD. Rawit Sejahtera, pengekspor cabai. Situs
+                            <p>Dukungan GerobakWeb sangat berharga bagi UD. Rawit Sejahtera, pengekspor cabai. Situs
                                 web
                                 kami membantu mengembangkan pasar internasional.</p>
                             <div class="ratting-inner mt-4">
@@ -64,7 +64,7 @@
                             <div class="icon mb-2">
                                 <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                             </div>
-                            <p>Saya sebagai pelanggan Gerobak Web merasa sangat puas. Situs web yang mereka rancang
+                            <p>Saya sebagai pelanggan GerobakWeb merasa sangat puas. Situs web yang mereka rancang
                                 membantu
                                 Jaserba menghadirkan segala kebutuhan kami dalam satu platform yang nyaman.</p>
                             <div class="ratting-inner mt-4">
