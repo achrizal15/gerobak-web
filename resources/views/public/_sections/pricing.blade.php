@@ -17,9 +17,9 @@
                             <li><i class="fa fa-check"></i>6+ Bagian</li>
                             <li><i class="fa fa-check"></i>Optimasi SEO</li>
                             <li><i class="fa fa-check"></i>Manajemen Konten</li>
-                            <li><i class="fa fa-check"></i>Domain Gratis</li>
                             <li><i class="fa fa-check"></i>Tautan Media Sosial</li>
                             <li><i class="fa fa-check"></i>3 Hari untuk Aktif</li>
+                            <li class="hide"><i class="fa fa-check"></i>Domain Gratis</li>
                             <li class="hide"><i class="fa fa-check"></i>Berbagai Bahasa</li>
                             <li class="hide"><i class="fa fa-check"></i>Pemberitahuan Email</li>
                             <li class="hide"><i class="fa fa-check"></i>+2 Halaman (Visi Misi, Formulir Hubungi Kami)
@@ -35,16 +35,16 @@
                     <div class="single-pricing-inner">
                         <div class="price-header text-center mb-lg-4">
                             <h5>Bussiness</h5>
-                            <h2 class="mb-3">999<sub>Ribu</sub></h2>
+                            <h2 class="mb-3">1.2<sub>Jt</sub></h2>
                         </div>
                         <ul>
                             <li><i class="fa fa-check"></i>Landing Page</li>
                             <li><i class="fa fa-check"></i>6+ Bagian</li>
                             <li><i class="fa fa-check"></i>Optimasi SEO</li>
                             <li><i class="fa fa-check"></i>Manajemen Konten</li>
-                            <li><i class="fa fa-check"></i>Domain Gratis</li>
                             <li><i class="fa fa-check"></i>Tautan Media Sosial</li>
                             <li><i class="fa fa-check"></i>3 Hari untuk Aktif</li>
+                            <li><i class="fa fa-check"></i>Domain Gratis</li>
                             <li><i class="fa fa-check"></i>Berbagai Bahasa</li>
                             <li><i class="fa fa-check"></i>Pemberitahuan Email</li>
                             <li><i class="fa fa-check"></i>+2 Halaman (Visi Misi, Formulir Hubungi Kami)</li>
