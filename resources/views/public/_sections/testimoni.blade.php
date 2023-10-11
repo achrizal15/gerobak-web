@@ -1,95 +1,85 @@
     <!-- testimonial-area start -->
-    <div class="testimonial-area pd-top-120 pd-bottom-90"
+    <div class="testimonial-area pd-top-120 pd-bottom-90" id="our-friend-area"
         style="background-image: url('{{ asset('dist/public') }}/assets/img/bg/11.png');">
         <div class="container">
             <div class="section-title">
-                <h6 class="sub-title">APA KATA PELANGGAN KAMI?</h6>
-                <h2 class="title">Advanced Engine Services</h2>
+                <h6 class="sub-title">@lang('public.our_friend.subtitle')</h6>
+                <h2 class="title">{!! __('public.our_friend.title') !!}</h2>
             </div>
             <div
                 class="testimonial-slider-1 owl-carousel slider-control-round slider-control-dots slider-control-right-top">
-                <div class="item">
-                    <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Ayu Wulan Mediana</h5>
-                        <p class="designation mb-3">COO Renggani Corp.</p>
-                        <div class="icon mb-2">
-                            <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
-                        </div>
-                        <p>Sangat senang dengan produk mereka. Benar-benar mengubah cara kami menjalankan bisnis.</p>
-                        <div class="ratting-inner mt-4">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
-                        <div class="thumb">
-                            <img src="{{ asset('dist/public') }}/assets/img/testimonial/1.png" alt="img">
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Muhammad Rosi</h5>
-                        <p class="designation mb-3">Chili Plantation Owner</p>
-                        <div class="icon mb-2">
-                            <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
-                        </div>
-                        <p>Pelayanan mereka luar biasa. Mereka selalu siap membantu kapan pun kita butuhkan.</p>
-                        <div class="ratting-inner mt-4">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
-                        <div class="thumb">
-                            <img src="{{ asset('dist/public') }}/assets/img/testimonial/2.png" alt="img">
+                <a href="" target="_blank">
+                    <div class="item">
+                        <div class="single-testimonial-inner style-1 text-center">
+                            <h5>Rika Endarwati</h5>
+                            <p class="designation mb-3">Founder Amirika.</p>
+                            <div class="icon mb-2">
+                                <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
+                            </div>
+                            <p>Dengan Gerobak Web, Amirika, penjual mie pedas, mencapai sukses luar biasa. Situs web
+                                menarik
+                                kami meningkatkan penjualan dan jangkauan pelanggan.</p>
+                            <div class="ratting-inner mt-4">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <div class="thumb">
+                                <img src="{{ asset('dist/public') }}/assets/img/testimonial/1.png" alt="img">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="item">
-                    <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Lilik Hidayati</h5>
-                        <p class="designation mb-3">Direktur La Gusto Fashion</p>
-                        <div class="icon mb-2">
-                            <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
-                        </div>
-                        <p>Saya sangat puas dengan hasilnya. Produk mereka membantu saya menghemat waktu dan uang,
-                            sementara juga meningkatkan efisiensi bisnis saya.</p>
-                        <div class="ratting-inner mt-4">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
-                        <div class="thumb">
-                            <img src="{{ asset('dist/public') }}/assets/img/testimonial/3.png" alt="img">
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="single-testimonial-inner style-1 text-center">
-                        <h5>Bambang Susilo</h5>
-                        <p class="designation mb-3">Wang's Cocopeat</p>
-                        <div class="icon mb-2">
-                            <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
-                        </div>
-                        <p>Kami baru saja menggunakan layanan mereka dan hasilnya luar biasa. Kami melihat pertumbuhan
-                            signifikan dalam bisnis kami berkat produk mereka.</p>
-                        <div class="ratting-inner mt-4">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
-                        <div class="thumb">
-                            <img src="{{ asset('dist/public') }}/assets/img/testimonial/1.png" alt="img">
+                </a>
+                <a href="" target="_blank">
+                    <div class="item">
+                        <div class="single-testimonial-inner style-1 text-center">
+                            <h5>Roisi'in</h5>
+                            <p class="designation mb-3"> Rawit Sejahtera</p>
+                            <div class="icon mb-2">
+                                <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
+                            </div>
+                            <p>Dukungan Gerobak Web sangat berharga bagi UD. Rawit Sejahtera, pengekspor cabai. Situs
+                                web
+                                kami membantu mengembangkan pasar internasional.</p>
+                            <div class="ratting-inner mt-4">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <div class="thumb">
+                                <img src="{{ asset('dist/public') }}/assets/img/testimonial/2.png" alt="img">
+                            </div>
                         </div>
                     </div>
-                </div>
+                </a>
+                <a href="" target="_blank">
+                    <div class="item">
+                        <div class="single-testimonial-inner style-1 text-center">
+                            <h5>Moh Rizqy Izzul H</h5>
+                            <p class="designation mb-3">Founded Jaserba</p>
+                            <div class="icon mb-2">
+                                <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
+                            </div>
+                            <p>Saya sebagai pelanggan Gerobak Web merasa sangat puas. Situs web yang mereka rancang
+                                membantu
+                                Jaserba menghadirkan segala kebutuhan kami dalam satu platform yang nyaman.</p>
+                            <div class="ratting-inner mt-4">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <div class="thumb">
+                                <img src="{{ asset('dist/public') }}/assets/img/testimonial/3.png" alt="img">
+                            </div>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>

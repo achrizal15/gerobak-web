@@ -33,5 +33,9 @@ return array(
          'price_list' => array(
                   'subtitle' => 'Daftar Harga',
                   'title' => 'Daftar Harga Website Terjangkau: Mulai Dari <span>750 Ribu</span> Saja!'
+         ),
+         'our_friend' => array(
+                  'subtitle' => 'Sahabat Kami',
+                  'title' => 'Testimoni Keberhasilan Bisnis dengan <span>Gerobak Web</span>'
          )
 );
