@@ -60,7 +60,7 @@
                     <div class="item">
                         <div class="single-testimonial-inner style-1 text-center">
                             <h5>Moh Rizqy Izzul H</h5>
-                            <p class="designation mb-3">Founded Jaserba</p>
+                            <p class="designation mb-3">Jaserba</p>
                             <div class="icon mb-2">
                                 <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                             </div>
