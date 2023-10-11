@@ -75,7 +75,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="thumb">
-                                <img src="{{ asset('dist/public') }}/assets/img/testimonial/3.png" alt="img">
+                                <img src="{{ Vite::asset('resources/images/public/jaserba.jpg') }}" alt="img">
                             </div>
                         </div>
                     </div>

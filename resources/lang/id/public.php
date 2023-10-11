@@ -38,6 +38,11 @@ return array(
                   'subtitle' => 'Sahabat Kami',
                   'title' => 'Testimoni Keberhasilan Bisnis dengan <span>GerobakWeb</span>'
          ),
+         'counter' => array(
+                  'our_partners' => 'Mitra Kami',
+                  'templates' => 'Templates dan Lini Bisnis',
+                  'our_friends' => 'Sahabat UMKM',
+         ),
          'footer' => array(
                   'advanced_service' => array(
                            'title' => 'Layanan Tingkat Lanjut',
