@@ -1,4 +1,7 @@
 @extends('layout.public.app')
+@section('styles')
+    @vite('resources/css/app.scss')
+@endsection
 @section('content')
     @include('public._sections.banner')
 

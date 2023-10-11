@@ -4,7 +4,7 @@
             <div class="contact-inner-1">
                 <div class="row">
                     <div class="col-lg-8 wow animated fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                        <img class="w-100" src="{{ asset('dist/public') }}/assets/img/bg/9.png" alt="img">
+                        <img class="w-100" src="{{ Vite::asset('resources/images/public/faq.jpg') }}" alt="img">
                     </div>
                     <div class="col-lg-4 wow animated fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.3s">
                         <div class="section-title mb-0">

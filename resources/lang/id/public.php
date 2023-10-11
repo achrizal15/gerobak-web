@@ -37,5 +37,15 @@ return array(
          'our_friend' => array(
                   'subtitle' => 'Sahabat Kami',
                   'title' => 'Testimoni Keberhasilan Bisnis dengan <span>GerobakWeb</span>'
+         ),
+         'footer' => array(
+                  'advanced_service' => array(
+                           'title' => 'Layanan Tingkat Lanjut',
+                           'ui_design' => 'Desain UI',
+                           'web_design' => 'Desain Web',
+                           'digital_marketing' => 'Pemasaran Digital',
+                           'web_development' => 'Pengembangan Web'
+                  ),
+                  'contact_us' => 'Kontak Kami'
          )
 );
