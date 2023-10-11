@@ -46,10 +46,6 @@
 
 <body>
 
-    <!-- search popup end-->
-    <div class="body-overlay" id="body-overlay"></div>
-
-    <!-- navbar start -->
     @include('layout.public.navbar')
     <!-- navbar end -->
     @yield('content')
@@ -59,6 +55,9 @@
     <!-- back to top area start -->
     <div class="back-to-top">
         <span class="back-top"><i class="fa fa-angle-up"></i></span>
+    </div>
+    <div class="fixed-bottom p-3 right-0 translate-middle">
+        <span><i class="fab fa-whatsapp"></i></span>
     </div>
     <!-- back to top area end -->
 

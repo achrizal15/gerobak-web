@@ -18,12 +18,17 @@
                             <li><i class="fa fa-check"></i>Optimasi SEO</li>
                             <li><i class="fa fa-check"></i>Manajemen Konten</li>
                             <li><i class="fa fa-check"></i>Domain Gratis</li>
+                            <li><i class="fa fa-check"></i>Tautan Media Sosial</li>
                             <li><i class="fa fa-check"></i>3 Hari untuk Aktif</li>
                             <li class="hide"><i class="fa fa-check"></i>Berbagai Bahasa</li>
-                            <li class="hide"><i class="fa fa-check"></i>3 Konten Media Sosial</li>
+                            <li class="hide"><i class="fa fa-check"></i>Pemberitahuan Email</li>
+                            <li class="hide"><i class="fa fa-check"></i>+2 Halaman (Visi Misi, Formulir Hubungi Kami)
+                            </li>
 
                         </ul>
-                        <a class="btn btn-border-gray border-radius-0 w-100" href="#">Started</a>
+                        <a class="btn btn-border-gray border-radius-0 w-100" target="_black"
+                            href="https://api.whatsapp.com/send?phone=6289512589756&text=Hai%20teman-teman%20di%20GerobakWeb!%20%0A%0AAku%20beneran%20kepo%20nih%20tentang%20penawaran%20*Starter*%20kalian.%0A%0ABisa%20kasih%20info%20lebih%20banyak%20soal%20fitur-fitur%20keren%20yang%20ada%20di%20paket%20ini%3F%20%0A%0APengen%20banget%20pastiin%20ini%20cocok%20buat%20bisnisku%2C%20makasih%20ya!">Hubungi
+                            dan Pesan Sekarang</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -38,11 +43,15 @@
                             <li><i class="fa fa-check"></i>Optimasi SEO</li>
                             <li><i class="fa fa-check"></i>Manajemen Konten</li>
                             <li><i class="fa fa-check"></i>Domain Gratis</li>
+                            <li><i class="fa fa-check"></i>Tautan Media Sosial</li>
                             <li><i class="fa fa-check"></i>3 Hari untuk Aktif</li>
                             <li><i class="fa fa-check"></i>Berbagai Bahasa</li>
-                            <li><i class="fa fa-check"></i>3 Konten Media Sosial</li>
+                            <li><i class="fa fa-check"></i>Pemberitahuan Email</li>
+                            <li><i class="fa fa-check"></i>+2 Halaman (Visi Misi, Formulir Hubungi Kami)</li>
                         </ul>
-                        <a class="btn btn-border-gray border-radius-0 w-100" href="#">Started</a>
+                        <a class="btn btn-border-gray border-radius-0 w-100" target="_blank"
+                            href="https://api.whatsapp.com/send?phone=6289512589756&text=Hai%20teman-teman%20di%20GerobakWeb!%20%0A%0AAku%20beneran%20kepo%20nih%20tentang%20penawaran%20*Business*%20kalian.%0A%0ABisa%20kasih%20info%20lebih%20banyak%20soal%20fitur-fitur%20keren%20yang%20ada%20di%20paket%20ini%3F%20%0A%0APengen%20banget%20pastiin%20ini%20cocok%20buat%20bisnisku%2C%20makasih%20ya!">Hubungi
+                            dan Pesan Sekarang</a>
                     </div>
                 </div>
             </div>

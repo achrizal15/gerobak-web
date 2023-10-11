@@ -8,9 +8,9 @@
 
     @include('public._sections.pricing')
 
-    @include('public._sections.counter')
-
     @include('public._sections.testimoni')
+
+    @include('public._sections.counter')
 
     @include('public._sections.contact')
 
