@@ -34,7 +34,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-pricing-inner">
                         <div class="price-header text-center mb-lg-4">
-                            <h5>Bussiness</h5>
+                            <h5>Business</h5>
                             <h2 class="mb-3">1.2<sub>Jt</sub></h2>
                         </div>
                         <ul>
