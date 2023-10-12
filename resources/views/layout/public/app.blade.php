@@ -41,6 +41,25 @@
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/owl.min.css">
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/responsive.css">
+    <meta name="google-site-verification" content="_yaGtRZi1XmjOHCIszf7dA2BpgMdaNzxhYupXLxkvXY" />
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WT9RWC2J');
+    </script>
+    <!-- End Google Tag Manager -->
     @yield('styles')
 </head>
 
@@ -63,6 +82,10 @@
 
 
     <!-- all plugins here -->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT9RWC2J" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <script src="{{ asset('dist/public') }}/assets/js/jquery.min.js"></script>
     <script src="{{ asset('dist/public') }}/assets/js/bootstrap.min.js"></script>
     <script src="{{ asset('dist/public') }}/assets/js/fontawesome.min.js"></script>
@@ -77,5 +100,6 @@
     @vite('resources/js/app.js')
     @yield('js')
 </body>
+
 
 </html>
