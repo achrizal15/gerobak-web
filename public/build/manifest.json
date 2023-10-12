@@ -1,0 +1,80 @@
+{
+  "resources/css/app.scss": {
+    "file": "assets/app-d12d9d60.css",
+    "isEntry": true,
+    "src": "resources/css/app.scss"
+  },
+  "resources/images/logo/ico.webp": {
+    "file": "assets/ico-ce7d813d.webp",
+    "src": "resources/images/logo/ico.webp"
+  },
+  "resources/images/logo/logo-white.webp": {
+    "file": "assets/logo-white-fc7b8104.webp",
+    "src": "resources/images/logo/logo-white.webp"
+  },
+  "resources/images/logo/logo.webp": {
+    "file": "assets/logo-faa3c766.webp",
+    "src": "resources/images/logo/logo.webp"
+  },
+  "resources/images/public/banner.webp": {
+    "file": "assets/banner-ce1d8cb2.webp",
+    "src": "resources/images/public/banner.webp"
+  },
+  "resources/images/public/chachajuice/logo.webp": {
+    "file": "assets/logo-4e160a5d.webp",
+    "src": "resources/images/public/chachajuice/logo.webp"
+  },
+  "resources/images/public/chachajuice/thumbnail.webp": {
+    "file": "assets/thumbnail-576af90f.webp",
+    "src": "resources/images/public/chachajuice/thumbnail.webp"
+  },
+  "resources/images/public/darksteak/logo.png": {
+    "file": "assets/logo-5c50e9a0.png",
+    "src": "resources/images/public/darksteak/logo.png"
+  },
+  "resources/images/public/darksteak/thumbnail.png": {
+    "file": "assets/thumbnail-3e22aad1.png",
+    "src": "resources/images/public/darksteak/thumbnail.png"
+  },
+  "resources/images/public/faq.webp": {
+    "file": "assets/faq-41d49382.webp",
+    "src": "resources/images/public/faq.webp"
+  },
+  "resources/images/public/jaserba.webp": {
+    "file": "assets/jaserba-88b9030f.webp",
+    "src": "resources/images/public/jaserba.webp"
+  },
+  "resources/images/public/kindspa/logo.png": {
+    "file": "assets/logo-988bdacc.png",
+    "src": "resources/images/public/kindspa/logo.png"
+  },
+  "resources/images/public/kindspa/thumbnail.png": {
+    "file": "assets/thumbnail-3cd60467.png",
+    "src": "resources/images/public/kindspa/thumbnail.png"
+  },
+  "resources/images/public/tentang-kami/1.webp": {
+    "file": "assets/1-c2e8f4a6.webp",
+    "src": "resources/images/public/tentang-kami/1.webp"
+  },
+  "resources/images/public/tentang-kami/2.webp": {
+    "file": "assets/2-fdd8baac.webp",
+    "src": "resources/images/public/tentang-kami/2.webp"
+  },
+  "resources/images/public/tentang-kami/3.webp": {
+    "file": "assets/3-fb5b4e30.webp",
+    "src": "resources/images/public/tentang-kami/3.webp"
+  },
+  "resources/images/public/tentang-kami/4.webp": {
+    "file": "assets/4-84fc28e7.webp",
+    "src": "resources/images/public/tentang-kami/4.webp"
+  },
+  "resources/images/public/tentang-kami/tentang-kami.webp": {
+    "file": "assets/tentang-kami-d72a4cd7.webp",
+    "src": "resources/images/public/tentang-kami/tentang-kami.webp"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
