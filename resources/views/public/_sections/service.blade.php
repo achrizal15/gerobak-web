@@ -15,7 +15,7 @@
                   <div class="col-lg-4 col-md-6">
                       <div class="single-service-inner-2 text-center">
                           <div class="thumb">
-                              <img height="auto" width="100%" style="object-fit: contain"
+                              <img height="200px" width="100%" style="object-fit: contain"
                                   src="{{ $item['thumbnail'] }}" alt="img">
                           </div>
                           <div class="details">
