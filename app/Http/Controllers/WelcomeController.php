@@ -26,7 +26,7 @@ class WelcomeController extends Controller
                 'title' => 'Chacha Juice',
                 'thumbnail' => Vite::asset('resources/images/public/chachajuice/thumbnail.avif'),
                 'icon' => Vite::asset('resources/images/public/chachajuice/logo.png'),
-                'detail' => 'Template Eksklusif untuk Restoran Steak yang Menciptakan Pengalaman Kuliner Luar Biasa'
+                'detail' => 'Selamat datang di Chacha Juice, oase rasa segar dan sehat dari GerobakWeb! Template ini adalah jaminan kualitas untuk bisnis minuman Anda. '
             ),
         );
         return view('welcome', compact('business_lines'));
