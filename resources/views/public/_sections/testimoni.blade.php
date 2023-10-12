@@ -77,7 +77,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="thumb">
-                                <img src="{{ Vite::asset('resources/images/public/jaserba.webp') }}" alt="img">
+                                <img src="{{ Vite::asset('resources/images/public/jaserba.webp') }}" alt="img" style="height:100%">
                             </div>
                         </div>
                     </div>
