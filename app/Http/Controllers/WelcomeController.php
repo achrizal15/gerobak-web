@@ -17,15 +17,15 @@ class WelcomeController extends Controller
                 'detail' => 'Template Eksklusif untuk Restoran Steak yang Menciptakan Pengalaman Kuliner Luar Biasa'
             ),
             array(
-                'title' => 'Dark Steak',
-                'thumbnail' => Vite::asset('resources/images/public/darksteak/thumbnail.png'),
-                'icon' => Vite::asset('resources/images/public/darksteak/logo.png'),
-                'detail' => 'Template Eksklusif untuk Restoran Steak yang Menciptakan Pengalaman Kuliner Luar Biasa'
+                'title' => 'SpaLuxe',
+                'thumbnail' => Vite::asset('resources/images/public/kindspa/thumbnail.png'),
+                'icon' => Vite::asset('resources/images/public/kindspa/logo.png'),
+                'detail' => 'Template Spa & Kecantikan eksklusif dengan desain mewah untuk menciptakan pengalaman kecantikan yang tak terlupakan di bisnis spa dan kecantikan Anda.'
             ),
             array(
-                'title' => 'Dark Steak',
-                'thumbnail' => Vite::asset('resources/images/public/darksteak/thumbnail.png'),
-                'icon' => Vite::asset('resources/images/public/darksteak/logo.png'),
+                'title' => 'Chacha Juice',
+                'thumbnail' => Vite::asset('resources/images/public/chachajuice/thumbnail.avif'),
+                'icon' => Vite::asset('resources/images/public/chachajuice/logo.png'),
                 'detail' => 'Template Eksklusif untuk Restoran Steak yang Menciptakan Pengalaman Kuliner Luar Biasa'
             ),
         );

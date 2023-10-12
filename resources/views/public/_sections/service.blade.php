@@ -15,12 +15,12 @@
                   <div class="col-lg-4 col-md-6">
                       <div class="single-service-inner-2 text-center">
                           <div class="thumb">
-                              <img height="300px" width="100%" style="object-fit: contain"
+                              <img height="100%" width="100%" style="object-fit: contain"
                                   src="{{ $item['thumbnail'] }}" alt="img">
                           </div>
                           <div class="details">
                               <div class="icon mb-3">
-                                  <img src="{{ $item['icon'] }}" alt="img">
+                                  <img width="80" height="auto" src="{{ $item['icon'] }}" alt="img">
                               </div>
                               <h5><a href="service-details.html">{{ $item['title'] }}</a></h5>
                               <p>{{ $item['detail'] }} </p>
