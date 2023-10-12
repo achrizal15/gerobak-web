@@ -3,7 +3,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3 mb-3 mb-md-0 col-md-6">
-                <img src="{{ Vite::asset('resources/images/logo/logo.png') }}" alt="img" width="200px" height="84px">
+                <img src="{{ Vite::asset('resources/images/logo/logo.webp') }}" alt="img" width="200px"
+                    height="84px">
             </div>
             <div class="col-lg-3 col-md-6 ps-xl-5">
                 <div class="widget widget_nav_menu">

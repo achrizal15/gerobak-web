@@ -16,20 +16,20 @@
     <meta property="og:title" content="GerobakWeb - Solusi Website untuk UMKM Indonesia">
     <meta property="og:description"
         content="GerobakWeb - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
-    <meta property="og:image" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
+    <meta property="og:image" content="{{ Vite::asset('resources/images/logo/logo.webp') }}">
     <meta property="og:url" content="https://gerobakweb.com/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="GerobakWeb">
 
     <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
+    <meta name="twitter:card" content="{{ Vite::asset('resources/images/logo/logo.webp') }}">
     <meta name="twitter:title" content="GerobakWeb - Solusi Website untuk Bisnis Anda">
     <meta name="twitter:description"
         content="GerobakWeb - Solusi Website untuk Bisnis Anda. Kami menyediakan layanan pembuatan website yang modern dan terjangkau.">
-    <meta name="twitter:image" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
-    <meta name="twitter:url" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
+    <meta name="twitter:image" content="{{ Vite::asset('resources/images/logo/logo.webp') }}">
+    <meta name="twitter:url" content="{{ Vite::asset('resources/images/logo/logo.webp') }}">
     <meta name="twitter:site" content="@gerobakweb">
-    <link rel=icon href="{{ Vite::asset('resources/images/logo/ico.jpg') }}" sizes="32x32" type="image/png">
+    <link rel=icon href="{{ Vite::asset('resources/images/logo/ico.webp') }}" sizes="32x32" type="image/png">
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/bootstrap.min.css">

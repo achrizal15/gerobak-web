@@ -33,7 +33,7 @@
                             <img class="banner-animate-img banner-animate-img-3 top_image_bounce"
                                 src="{{ asset('dist/public') }}/assets/img/banner-2/2.png" alt="img">
                             <img class="main-img mt-5" style="width: 800px !important;margin-top:10px"
-                                src="{{ Vite::asset('resources/images/public/banner.png') }}" alt="img">
+                                src="{{ Vite::asset('resources/images/public/banner.webp') }}" alt="img">
                         </div>
                     </div>
                 </div>

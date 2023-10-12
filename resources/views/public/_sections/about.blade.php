@@ -4,16 +4,17 @@
         <div class="row">
             <div class="col-lg-6 mb-4 mb-lg-0 wow animated fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.3s">
                 <div class="about-thumb-inner">
-                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/1.jpg') }}" class="second-img1"
+                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/1.webp') }}" class="second-img1"
                         width="150" height="150" alt="seo">
-                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/2.jpg') }}" class="second-img2"
+                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/2.webp') }}" class="second-img2"
                         width="150" height="150" alt="seo">
-                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/3.jpg') }}" class="second-img3"
+                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/3.webp') }}" class="second-img3"
                         width="150" height="150" alt="seo">
-                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/4.jpg') }}" class="second-img4"
+                    <img src="{{ Vite::asset('resources/images/public/tentang-kami/4.webp') }}" class="second-img4"
                         width="150" height="150" alt="seo">
                     <img class="main-img"
-                        src="{{ Vite::asset('resources/images/public/tentang-kami/tentang-kami.png') }}" alt="img">
+                        src="{{ Vite::asset('resources/images/public/tentang-kami/tentang-kami.webp') }}"
+                        alt="img">
                 </div>
             </div>
             <div class="col-lg-6 wow animated fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.3s">

@@ -8,7 +8,7 @@
             </button>
         </div>
         <div class="logo">
-            <a href="index.html"><img src="{{ Vite::asset('resources/images/logo/logo.png') }}" width="200px"
+            <a href="/"><img src="{{ Vite::asset('resources/images/logo/logo.webp') }}" width="200px"
                     height="50px" alt="img"></a>
         </div>
         <div class="collapse navbar-collapse" id="itech_main_menu">

@@ -8,7 +8,7 @@
             </div>
             <div
                 class="testimonial-slider-1 owl-carousel slider-control-round slider-control-dots slider-control-right-top">
-                <a href="" target="_blank">
+                <a href="/" target="_blank">
                     <div class="item">
                         <div class="single-testimonial-inner style-1 text-center">
                             <h5>Rika Endarwati</h5>
@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="/" target="_blank">
                     <div class="item">
                         <div class="single-testimonial-inner style-1 text-center">
                             <h5>Roisi'in</h5>
@@ -58,7 +58,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="" target="_blank">
+                <a href="/" target="_blank">
                     <div class="item">
                         <div class="single-testimonial-inner style-1 text-center">
                             <h5>Moh Rizqy Izzul H</h5>
@@ -77,7 +77,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="thumb">
-                                <img src="{{ Vite::asset('resources/images/public/jaserba.jpg') }}" alt="img">
+                                <img src="{{ Vite::asset('resources/images/public/jaserba.webp') }}" alt="img">
                             </div>
                         </div>
                     </div>
