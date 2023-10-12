@@ -29,7 +29,7 @@
     <meta name="twitter:image" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
     <meta name="twitter:url" content="{{ Vite::asset('resources/images/logo/logo.png') }}">
     <meta name="twitter:site" content="@gerobakweb">
-    <link rel=icon href="{{ Vite::asset('resources/images/logo/logo.png') }}" sizes="20x20" type="image/png">
+    <link rel=icon href="{{ Vite::asset('resources/images/logo/ico.jpg') }}" sizes="32x32" type="image/png">
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/bootstrap.min.css">
