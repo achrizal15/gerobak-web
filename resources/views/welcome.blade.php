@@ -15,7 +15,7 @@
 
     @include('public._sections.counter')
 
-    @include('public._sections.contact')
+    @include('public._sections.faq')
 
     @include('public._sections.work_process_area')
 @endsection

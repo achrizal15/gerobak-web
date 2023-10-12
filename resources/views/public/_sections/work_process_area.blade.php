@@ -14,8 +14,9 @@
                              <p class="process-count">01</p>
                          </div>
                          <div class="details">
-                             <h5 class="mb-3">Requirements</h5>
-                             <p class="content">Research ipsum dolor sit consec tetur sed diam in the aliquam tempor
+                             <h5 class="mb-3">Berikan Konten dan Pilih Template</h5>
+                             <p class="content">Anda berikan gambar dan konten yang Anda miliki, serta memilih template
+                                 situs web yang sesuai dengan bisnis Anda.
                              </p>
                          </div>
                      </div>
@@ -27,8 +28,9 @@
                              <p class="process-count">02</p>
                          </div>
                          <div class="details">
-                             <h5 class="mb-3">planning</h5>
-                             <p class="content">Create ipsum dolor sit consec tetur sed diam in the aliquam tempor
+                             <h5 class="mb-3">Kami Kustomisasi Konten dan Template</h5>
+                             <p class="content">Tim GerobakWeb akan mengedit dan menyesuaikan konten dan template agar
+                                 cocok dengan keinginan Anda.
                              </p>
                          </div>
                      </div>
@@ -40,8 +42,9 @@
                              <p class="process-count">03</p>
                          </div>
                          <div class="details">
-                             <h5 class="mb-3">Implementation</h5>
-                             <p class="content">Develope ipsum dolor sit consec tetur sed diam in the aliquam tempor
+                             <h5 class="mb-3">Preview dan Koreksi</h5>
+                             <p class="content">Kami akan menampilkan preview situs web Anda setelah satu hari. Anda
+                                 bisa memberikan masukan dan perubahan yang diperlukan.
                              </p>
                          </div>
                      </div>
@@ -53,8 +56,9 @@
                              <p class="process-count">04</p>
                          </div>
                          <div class="details">
-                             <h5 class="mb-3">Maintenance</h5>
-                             <p class="content">Shop ipsum dolor sit consec tetur Malesuada sed diam in the</p>
+                             <h5 class="mb-3">Publikasikan Situs Anda</h5>
+                             <p class="content">Setelah satu hari, situs web Anda siap untuk dipublikasikan. Dalam tiga
+                                 hari, situs Anda akan live dan siap digunakan. Kami selalu siap membantu Anda!</p>
                          </div>
                      </div>
                  </div>

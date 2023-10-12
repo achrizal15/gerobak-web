@@ -43,6 +43,11 @@ return array(
                   'templates' => 'Templates dan Lini Bisnis',
                   'our_friends' => 'Sahabat UMKM',
          ),
+         'faq' => array(
+                  'title' => 'Pertanyaan',
+                  'subtitle' => 'Pengetahuan Terkait <span>GerobakWeb</span>',
+
+         ),
          'footer' => array(
                   'advanced_service' => array(
                            'title' => 'Layanan Tingkat Lanjut',

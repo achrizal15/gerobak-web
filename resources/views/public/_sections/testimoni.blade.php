@@ -12,7 +12,7 @@
                     <div class="item">
                         <div class="single-testimonial-inner style-1 text-center">
                             <h5>Rika Endarwati</h5>
-                            <p class="designation mb-3">Founder Amirika.</p>
+                            <p class="designation mb-3">Founder Amirika</p>
                             <div class="icon mb-2">
                                 <img src="{{ asset('dist/public') }}/assets/img/icon/25.png" alt="img">
                             </div>
@@ -27,7 +27,8 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="thumb">
-                                <img src="{{ asset('dist/public') }}/assets/img/testimonial/1.png" alt="img">
+                                <img src="https://img.freepik.com/free-vector/esquites-logo-design-template_23-2150038340.jpg?w=740&t=st=1697081437~exp=1697082037~hmac=5b204787d043a9a8e1d5dc5c063c8c85ff79c552428b2c76d07316f5ebe06b0f"
+                                    alt="img">
                             </div>
                         </div>
                     </div>
@@ -51,7 +52,8 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="thumb">
-                                <img src="{{ asset('dist/public') }}/assets/img/testimonial/2.png" alt="img">
+                                <img src="https://img.freepik.com/free-vector/gradient-spicy-logo-template-design_23-2149641027.jpg?w=740&t=st=1697081403~exp=1697082003~hmac=d3b4ae6eab4684c2f847dac673c3405f0f61cd910ddbde462b7d10a376246897"
+                                    alt="img">
                             </div>
                         </div>
                     </div>
