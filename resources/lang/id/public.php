@@ -46,7 +46,10 @@ return array(
          'faq' => array(
                   'title' => 'Pertanyaan',
                   'subtitle' => 'Pengetahuan Terkait <span>GerobakWeb</span>',
-
+         ),
+         'work_process' => array(
+                  'title' => 'Cara Kerja',
+                  'subtitle' => 'Begini Cara Kami Bikin Situs Anda'
          ),
          'footer' => array(
                   'advanced_service' => array(

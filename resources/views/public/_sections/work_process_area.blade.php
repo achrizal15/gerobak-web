@@ -2,8 +2,8 @@
  <div class="work-process-area pd-top-120">
      <div class="container">
          <div class="section-title text-center pb-5">
-             <h6 class="sub-title">OUR SIMPLE PROCESS</h6>
-             <h2 class="title">World <span>Best Step</span> Our It Process</h2>
+             <h6 class="sub-title">@lang('public.work_process.title')</h6>
+             <h2 class="title">@lang('public.work_process.subtitle')</h2>
          </div>
          <div class="work-process-area-inner bg-gray border-radius-20">
              <div class="row">
