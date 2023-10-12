@@ -20,7 +20,7 @@ class WelcomeController extends Controller
                 'title' => 'SpaLuxe',
                 'thumbnail' => Vite::asset('resources/images/public/kindspa/thumbnail.png'),
                 'icon' => Vite::asset('resources/images/public/kindspa/logo.png'),
-                'detail' => 'Template Spa & Kecantikan eksklusif dengan desain mewah untuk menciptakan pengalaman kecantikan yang tak terlupakan di bisnis spa dan kecantikan Anda.'
+                'detail' => 'Template eksklusif kecantikan dengan desain mewah untuk pengalaman tak terlupakan di bisnis spa Anda.'
             ),
             array(
                 'title' => 'Chacha Juice',
