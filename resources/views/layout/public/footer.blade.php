@@ -82,7 +82,7 @@
                     </a>
                 </div>
                 <div class="col-md-6 text-lg-end">
-                    <a href="#">Trams & Condition</a>
+                    <a href="#">Terms & Condition</a>
                 </div>
             </div>
         </div>
