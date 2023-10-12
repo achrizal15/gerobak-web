@@ -41,6 +41,7 @@
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/owl.min.css">
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ asset('dist/public') }}/assets/css/responsive.css">
+    <meta name="google-site-verification" content="_yaGtRZi1XmjOHCIszf7dA2BpgMdaNzxhYupXLxkvXY" />
     @yield('styles')
 </head>
 
