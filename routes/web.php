@@ -15,3 +15,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [WelcomeController::class, 'index']);
+Route::get('/google126bc52d42430a47.html', function () {
+         return view('google126bc52d42430a47');
+});
