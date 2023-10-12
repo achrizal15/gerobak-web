@@ -26,7 +26,7 @@ class WelcomeController extends Controller
                 'title' => 'Chacha Juice',
                 'thumbnail' => Vite::asset('resources/images/public/chachajuice/thumbnail.avif'),
                 'icon' => Vite::asset('resources/images/public/chachajuice/logo.png'),
-                'detail' => 'Template kualitas tinggi untuk bisnis minuman segar. Desain menarik dan fitur canggih untuk kesan yang tak terlupakan.'
+                'detail' => 'Template kualitas tinggi untuk bisnis minuman segar. Desain menarik untuk kesan yang tak terlupakan.'
             ),
         );
         return view('welcome', compact('business_lines'));
