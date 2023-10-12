@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id_ID">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
     <meta charset="UTF-8">
